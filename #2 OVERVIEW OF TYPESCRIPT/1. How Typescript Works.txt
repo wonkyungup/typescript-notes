@@ -1,0 +1,4 @@
+⭐ Typescript
+└ Strongly typed programming
+└ 컴파일 시 javascript로 변환됨
+└ 에러가 발생 → 컴파일 X
